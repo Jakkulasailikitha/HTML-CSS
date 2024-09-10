@@ -1,0 +1,15 @@
+/* child selector */
+/* p > a{
+    color: brown;
+} */
+
+
+/* descendent selector */
+/* 
+div a{
+    color: chartreuse;
+} */
+
+p,h2{
+    color: hotpink;
+}

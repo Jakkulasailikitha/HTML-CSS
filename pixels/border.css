@@ -1,0 +1,28 @@
+/* .a{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 4px;
+    text-align: center;
+} */
+
+
+.a{
+    background-color: lightblue;
+    border-right: solid 5px blue;
+}
+
+.b{
+    background-color: lightblue;
+    border-left: solid 5px red;
+}
+
+.c{
+    background-color: lightblue;
+    border-top: solid 5px blue;
+    border-bottom:1px blue solid;
+}
+
+.d{
+    background-color: lightblue;
+}
+

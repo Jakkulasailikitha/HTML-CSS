@@ -1,0 +1,12 @@
+/* .commonclass{
+    color: brown;
+    background-color: blue;
+} */
+
+
+/* combination selector */
+p.commonclass{
+    color: brown;
+    background-color: blue;
+
+}
